@@ -22,7 +22,14 @@
 .more_btn{
 	align-self: center;
 }
-
+.vid-title{
+  font-size: 16px;
+  /*display: inline;*/
+  font-weight: 800;
+  margin: 0;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
 @media screen and (max-width: 768px) {
   .tagline{
   	margin-top: 0;
