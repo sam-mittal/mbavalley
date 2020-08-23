@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
 .logo{
 	max-width: 80px;
 }
@@ -17,6 +17,10 @@
 }
 #videos{
 	display: none;
+}
+
+.more_btn{
+	align-self: center;
 }
 
 @media screen and (max-width: 768px) {
