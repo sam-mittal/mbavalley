@@ -1976,6 +1976,7 @@ article footer .btn-primary:focus {
   margin: 0;
   text-transform: uppercase;
   margin-bottom: 15px;
+  color:#FB5660;
 }
 .menu ul > li .dropdown-menu.megamenu .megamenu-title .all {
   position: absolute;
@@ -1998,10 +1999,11 @@ article footer .btn-primary:focus {
   float: none;
 }
 .menu ul > li .dropdown-menu.megamenu .vertical-menu li a {
-  padding: 5px 0;
+  padding: 2px 0;
   height: auto;
   line-height: 34px;
   border-bottom: 1px solid #f2f2f2;
+  font-weight: 500;
 }
 .menu ul > li .dropdown-menu.megamenu .vertical-menu li a i {
   margin-left: 0;

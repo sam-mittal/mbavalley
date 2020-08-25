@@ -30,6 +30,9 @@
   text-transform: uppercase;
   margin-bottom: 30px;
 }
+.custom_cat{
+  margin-left: 0 !important;
+}
 @media screen and (max-width: 768px) {
   .tagline{
   	margin-top: 0;
