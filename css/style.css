@@ -1436,7 +1436,7 @@ article .time {
   margin: 0;
 }
 article footer {
- 
+
 }
 article footer .btn-primary {
   background-color: transparent;
@@ -1845,7 +1845,7 @@ article footer .btn-primary:focus {
   height: 55px;
   width: 100%;
   line-height: 23px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   border-top: 1px solid #DDDDDD;
   border-bottom: 1px solid #DDDDDD;
 }
@@ -1898,8 +1898,9 @@ article footer .btn-primary:focus {
   letter-spacing: .5px;
   font-weight: 700;
   line-height: 32px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Times New Roman', serif;
   position: relative;
+  font-size: 20px;
   z-index: 1;
 }
 .menu ul > li > a i {
@@ -2991,7 +2992,7 @@ aside .ads figcaption {
   }
 }
 footer.footer {
-  
+
   background-color: #252e38;
   color: #848f9a;
   padding: 20px 0;
