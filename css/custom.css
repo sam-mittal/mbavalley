@@ -33,6 +33,22 @@
 .custom_cat{
   margin-left: 0 !important;
 }
+.custom_comp{
+  color:  black !important;
+}
+.comp_details{
+  margin-top: 10px;
+  margin-left: 5px;
+
+  height: 22px;
+  padding:0;
+  /*color : #5ab7d1 !important;
+  border-color: #5ab7d1 !important;*/
+}
+.btn_text{
+  margin-top: 0;
+  text-align: center;
+}
 @media screen and (max-width: 768px) {
   .tagline{
   	margin-top: 0;
